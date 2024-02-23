@@ -11,3 +11,11 @@ count 시 0을 리턴하는 방법(join)
 sub-query 새로운 table 로 정의하기.
 
 누적 합 계산하기. sum()집계 over()윈도우
+
+### leetcode 1934 (MySQL)
+
+그냥 문제였음. count(조건식) 을 사용할 때 else 0 을 조심하기.
+
+### MySQL document window function
+
+window function 에 대해 알아보기.
