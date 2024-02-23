@@ -16,6 +16,6 @@ sub-query 새로운 table 로 정의하기.
 
 그냥 문제였음. count(조건식) 을 사용할 때 else 0 을 조심하기.
 
-### MySQL document window function
+### MySQL document window operations
 
-window function 에 대해 알아보기.
+window operations 에 대해 알아보기.
