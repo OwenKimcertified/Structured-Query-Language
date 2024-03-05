@@ -19,3 +19,13 @@ sub-query 새로운 table 로 정의하기.
 ### MySQL document window operations
 
 window operations 에 대해 알아보기.
+
+### leetcode 176 (MySQL)
+
+두 번째로 높은 급여를 받는 사람을 찾고, 없다면 null 을 리턴하기.
+
+### leetcode 177 (MySQL)
+
+N 번째로 높은 급여를 받는 사람 찾기.
+
+함수로 구성되어 있고 N param 으로 N 번째 높은 사람 찾기.
